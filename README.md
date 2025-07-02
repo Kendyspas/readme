@@ -36,23 +36,23 @@ Nah I don't need it at all.
 <h2 align="center">📊 Github Stats 📊</h2>
 <br>
 <div align="center">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonghienminh&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&show_icons=true&theme=radical" />
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=truonghienminh&hide=contribs,prs&theme=synthwave" />
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=truonghienminh&theme=algolia&background=0d1117&hide_border=true\" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truonghienminh&theme=github_dark&utcOffset=7"/>
+    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kendyspas&layout=compact&theme=algolia"/>
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=Kendyspas&show_icons=true&theme=radical" />
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=Kendyspas&hide=contribs,prs&theme=synthwave" />
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Kendyspas&theme=algolia&background=0d1117&hide_border=true\" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kendyspas&theme=github_dark&utcOffset=7"/>
 </div>
 <br>
 
 <h2 align="center">📝 Extras 📝</h2>
-<a href="https://github.com/truonghienminh?tab=followers">
-    <img src="https://img.shields.io/github/followers/truonghienminh?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+<a href="https://github.com/Kendyspas?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kendyspas?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
   </a>
   
  </p>
  <br>
   <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=truonghienminh&theme=onedark&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kendyspas&theme=onedark&column=3&margin-w=15&margin-h=15" />
   </p>
   <br>
 </details>
@@ -60,14 +60,14 @@ Nah I don't need it at all.
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <div align="center">
-    <a href="https://www.facebook.com/truonghienminh2006/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-    <a href="mailto:truonghienminh2006@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.facebook.com/kendy.spas/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+    <a href="mailto:pkhoa2086@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
 
 
-![](https://komarev.com/ghpvc/?username=truonghienminh&style=plastic&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Kendyspas&style=plastic&color=brightgreen)
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
