@@ -24,32 +24,8 @@
 </div>
 <br>
 
-<h2 align="center">📜 Certification 📜</h2>
-Nah I don't need it at all.
 
-<h2 align="center">📊 Github Stats 📊</h2>
-<br>
-<div align="center">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kendyspas&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=Kendyspas&show_icons=true&theme=radical" />
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=Kendyspas&hide=contribs,prs&theme=synthwave" />
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Kendyspas&theme=algolia&background=0d1117&hide_border=true\" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kendyspas&theme=github_dark&utcOffset=7"/>
-</div>
-<br>
 
-<h2 align="center">📝 Extras 📝</h2>
-<a href="https://github.com/Kendyspas?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kendyspas?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  
- </p>
- <br>
-  <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kendyspas&theme=onedark&column=3&margin-w=15&margin-h=15" />
-  </p>
-  <br>
-</details>
 
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
